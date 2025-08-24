@@ -1,7 +1,5 @@
-its my dotfiles for xfce
-
-dependences:
-xfce4 xfce4-goodies papirus-icon-theme 
+<h1>its my dotfiles for xfce </h1>
 
 
-and its my first repo here, dont hate me
+
+and its my first repo here, dont hate me pls
