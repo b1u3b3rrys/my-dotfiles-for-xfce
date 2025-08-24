@@ -19,4 +19,4 @@ check assets
 
 
 
-and sorry, i dont know how to export screenshots from assets to readme
+<i>and sorry, i dont know how to export screenshots from assets to readme</i>
