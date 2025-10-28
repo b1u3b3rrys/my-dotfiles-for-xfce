@@ -7,16 +7,14 @@ and its my first repo here, dont hate me pls
 
 
 <h1>catppuccin mocha:</h1>
-check assets
-
+https://github.com/b1u3b3rrys/my-dotfiles-for-xfce/blob/main/assets/catppuccin%20mocha.jpg
 
 
 
 
 <h1>catppuccin latte:</h1>
-check assets 
+https://github.com/b1u3b3rrys/my-dotfiles-for-xfce/blob/main/assets/catppuccin%20latte.jpg
 
 
 
-
-<i>and sorry, i dont know how to export screenshots from assets to readme</i>
+<i>idk what im should put here :3 </i>
